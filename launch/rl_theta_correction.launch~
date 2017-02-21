@@ -1,0 +1,5 @@
+<launch>
+
+	<node pkg="exp_examine_path" type="calc_metric_path" name="calc_metric_path" output="screen" />
+
+</launch>

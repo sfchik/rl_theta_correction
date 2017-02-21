@@ -1,0 +1,5 @@
+<launch>
+
+	<node pkg="rl_theta_correction" type="rl_theta_correction.py" name="rl_theta_correction" output="screen" />
+
+</launch>
